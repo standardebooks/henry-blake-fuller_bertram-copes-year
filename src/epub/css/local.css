@@ -23,3 +23,13 @@ footer{
 [epub|type~="z3998:signature"]{
 	font-variant: small-caps;
 }
+
+#chapter-12 [epub|type~="z3998:valediction"]{
+	margin-right: initial;
+}
+
+#chapter-12 [epub|type~="z3998:salutation"],
+#chapter-12 [epub|type~="z3998:sender"],
+#chapter-12 [epub|type~="z3998:signature"]{
+	font-variant: normal;
+}
