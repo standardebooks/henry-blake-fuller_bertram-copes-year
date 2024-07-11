@@ -6,4 +6,10 @@
             <reason>The missing right double quote is correct as the dialog spans multiple paragraph elements.</reason>
         </ignore>
     </file>
+    <file path="chapter-12.xhtml">
+        <ignore>
+            <code>c-019</code>
+            <reason>Inline signature should be normal font</reason>
+        </ignore>
+    </file>
 </se-lint-ignore>
