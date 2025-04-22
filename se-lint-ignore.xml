@@ -6,4 +6,10 @@
 			<reason>Inline signature should be normal font</reason>
 		</ignore>
 	</file>
+	<file path="chapter-17.xhtml">
+		<ignore>
+			<code>y-034</code>
+			<reason>Matched text is dialectical and not an abbreviation.</reason>
+		</ignore>
+	</file>
 </se-lint-ignore>
