@@ -11,5 +11,9 @@
 			<code>y-034</code>
 			<reason>Matched text is dialectical and not an abbreviation.</reason>
 		</ignore>
+		<ignore>
+			<code>y-036</code>
+			<reason>Matched text is not a typo.</reason>
+		</ignore>
 	</file>
 </se-lint-ignore>
