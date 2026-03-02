@@ -1,18 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <se-lint-ignore>
 	<file path="chapter-12.xhtml">
-		<ignore>
-			<code>c-019</code>
+		<ignore code="c-019">
 			<reason>Inline signature should be normal font</reason>
 		</ignore>
 	</file>
 	<file path="chapter-17.xhtml">
-		<ignore>
-			<code>y-034</code>
+		<ignore code="y-034">
 			<reason>Matched text is dialectical and not an abbreviation.</reason>
 		</ignore>
-		<ignore>
-			<code>y-036</code>
+		<ignore code="y-036">
 			<reason>Matched text is not a typo.</reason>
 		</ignore>
 	</file>
