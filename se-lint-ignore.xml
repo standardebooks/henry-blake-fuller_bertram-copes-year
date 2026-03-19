@@ -7,6 +7,10 @@
 		</ignore>
 	</file>
 	<file path="chapter-17.xhtml">
+		<ignore code="t-005">
+			<line>18</line>
+			<reason>Matched text is not dialog.</reason>
+		</ignore>
 		<ignore code="y-034">
 			<line>38</line>
 			<reason>Matched text is dialectical and not an abbreviation.</reason>
