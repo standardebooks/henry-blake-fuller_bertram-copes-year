@@ -7,7 +7,7 @@
 		</ignore>
 	</file>
 	<file path="chapter-17.xhtml">
-		<ignore code="t-005">
+		<ignore code="y-037">
 			<line>18</line>
 			<reason>Matched text is not dialog.</reason>
 		</ignore>
